@@ -31,7 +31,7 @@ py -m nuitka --mingw64 .\PassGen-by-Rayan-v0.50.py --standalone --onefile --wind
 ## Acknowledgements
 
  - [def get_pos()](https://stackoverflow.com/a/65530528) & [def move_window()](https://stackoverflow.com/a/65530528) were excerpted from [furas](https://stackoverflow.com/users/1832058/furas).
- - The code that positions the applicaion window in the center of the screen was excerpted from [yagisanatode](https://yagisanatode.com/2018/02/24/how-to-center-the-main-window-on-the-screen-in-tkinter-with-python-3/)
+ - The code that positions the application window in the center of the screen was excerpted from [yagisanatode](https://yagisanatode.com/2018/02/24/how-to-center-the-main-window-on-the-screen-in-tkinter-with-python-3/)
  - Great tkinter tutorial playlist [freeCodeCamp.org](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
 ## Used Libraries/APIs
 
