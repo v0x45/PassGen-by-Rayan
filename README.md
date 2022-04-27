@@ -1,7 +1,7 @@
 
 # PassGen by Rayan v0.50
 
-PassGen by Rayan is a free and open-source app using python. In a nutshell, the app is a strong password generator that generates infinite number of customized passwords up to the user's input. Its main goal is to help the users create a hard to crack password by providing various features:
+PassGen by Rayan is a free and open-source software using python. In a nutshell, the app is a strong password generator that generates infinite number of customized passwords up to the user's input. Its main goal is to help the users create a hard to crack password by providing various features:
 
 - Customized password length (4-128)
 - Enable/Disable alphabets
